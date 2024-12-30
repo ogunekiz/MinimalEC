@@ -1,0 +1,6 @@
+@MinimalEC.Gateway.WebAPI_HostAddress = http://localhost:5274
+
+GET {{MinimalEC.Gateway.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
